@@ -38,7 +38,7 @@
 ![수업2](https://user-images.githubusercontent.com/58944350/91004758-11293580-e610-11ea-8e1a-745f3e6a5840.PNG)
 
 ![수업3](https://user-images.githubusercontent.com/58944350/91004862-50f01d00-e610-11ea-9e32-3850b0dab757.PNG)
-|<span style="color:Blue">BOX</span>|내용|
+|<span style="color:Blue">BOX</span>|docs|
 |---|---|
 |section|[docs](https://developer.mozilla.org/ko/docs/Web/HTML/Element/section)|
 |article|[docs](https://developer.mozilla.org/ko/docs/Web/HTML/Element/article)|
