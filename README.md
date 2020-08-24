@@ -46,7 +46,7 @@
 |span|[docs](https://developer.mozilla.org/ko/docs/Web/HTML/Element/span)|
 |form|[docs](https://developer.mozilla.org/ko/docs/Web/HTML/Element/form)|
 
-| <span style="color:Blue">ITEM</span> | 내용                                                                  |
+| <span style="color:Blue">ITEM</span> | docs                                                                  |
 | ------------------------------------ | --------------------------------------------------------------------- |
 | a                                    | [docs](https://developer.mozilla.org/ko/docs/Web/SVG/Element/a)       |
 | video                                | [docs](https://developer.mozilla.org/ko/docs/Web/HTML/Element/video)  |
